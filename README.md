@@ -22,3 +22,5 @@ This is the compose file for developing and testing end to end.
 
 This is the compose file for deplying the service. A build is made of the client
 and then served with nginx. Logging is removed from the server.
+
+Completed
